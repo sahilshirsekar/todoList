@@ -1,0 +1,16 @@
+
+input{
+  width: 100%;
+}
+.items-container{
+  text-align: left;
+}
+
+.ss-row{
+  margin: 10px 3px;
+}
+
+.ss-btn{
+  min-width: 80px;
+  
+}
